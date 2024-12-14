@@ -4,11 +4,11 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a focus on
 
 About Me
 
-- 🎓 Currently studying Software Engineering at Northeastern University.
+- 🎓 Currently pursuing Master's in Software Engineering Systems at Northeastern University.
 - 💻 I have experience with technologies like Python, C, Java, PowerShell, and DevOps tools.
-- 🔧 Currently working on projects related to DevOps, AI, and Backend Development.
 - 👩‍💻 Previously worked as a Software Engineer at Shell India.
 - 🌱 Always learning and growing my skills, especially in Database management, Cloud Computing and Machine Learning.
+- ⚡ Fun fact, i love painting and dancing.
 
 Skills
 
@@ -16,7 +16,7 @@ Skills
 - Tools/Technologies: Docker, Jenkins, VMware Git, GitHub
 - Frameworks: Next.js, React
 - Databases: MySQL, MongoDB
-- Other: ServiceNow, Agile Development, Vulnerability Management
+- Other: ServiceNow, Vulnerability Management
 
 Current Focus
 
