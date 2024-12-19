@@ -1,32 +1,30 @@
 ## Hi, I'm Sonal Takalikar! <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
 
-Welcome to my GitHub profile! I'm a passionate software engineer with a focus on Software Engineering, DevOps, and Backend Development. I love exploring new technologies and building impactful solutions.
+### Welcome to my GitHub! I'm a software engineer with a passion for exploring new technologies and creating innovative solutions. 
 
-About Me
+### About Me
 
 - 🎓 Currently pursuing Master's in Software Engineering Systems at Northeastern University.
-- 💻 I have experience with technologies like Python, C, Java, PowerShell, and DevOps tools.
 - 👩‍💻 Previously worked as a Software Engineer at Shell India.
 - 🌱 Always learning and growing my skills, especially in Database management, Cloud Computing and Machine Learning.
 - ⚡ Fun fact, i love painting and dancing.
 
-Skills
+### Skills
 
-- Languages: Python, C, Java, PowerShell, JavaScript
-- Tools/Technologies: Docker, Jenkins, VMware Git, GitHub
+- Languages: Python, Java, PowerShell, JavaScript, C,
+- Tools/Technologies: VMware, GitHub, SSMS, WSUS, Active Directory, SolarWinds, Veeam Backup & Restore
 - Frameworks: Next.js, React
-- Databases: MySQL, MongoDB
+- Databases: MySQL, 
 - Other: ServiceNow, Vulnerability Management
 
-Current Focus
+### Current Focus
 
 - Expanding my expertise in DevOps and Cloud Infrastructure.
 - Building AI-based solutions and Backend Systems.
 - Looking for internships and co-op opportunities in Software Engineering and DevOps.
 
-Connect with Me
+Feel free to reach out to me for collaboration or just to chat!
 
-- 💼 LinkedIn: [Sonal Sunil Takalikar](https://www.linkedin.com/in/sonal-takalikar-28b198162/)
 - 📧 Email: [takalikar.s@northeastern.edu]
 
 <!--
