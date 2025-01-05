@@ -14,7 +14,7 @@
 - Languages: Python, Java, PowerShell, JavaScript, C,
 - Tools/Technologies: VMware, GitHub, SSMS, WSUS, Active Directory, SolarWinds, Veeam Backup & Restore
 - Frameworks: Next.js, React
-- Databases: MySQL, 
+- Databases: MySQL
 - Other: ServiceNow, Vulnerability Management
 
 ### Current Focus
