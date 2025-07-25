@@ -1,5 +1,7 @@
 ## Hi, I'm Sonal Takalikar! <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
 
+![Profile Views](https://komarev.com/ghpvc/?username=takalikarsonal&color=blue)
+
 ### Welcome to my GitHub! I'm a software engineer with a passion for exploring new technologies and creating innovative solutions. 
 
 ### About Me
